@@ -1,0 +1,40 @@
+body {
+  background-color: transparent;
+  position: relative;
+  padding-top: 50px;
+}
+.my-navbar {
+  padding-top: 5px;
+  background-color: black;
+  border: none;
+  height: 4em;
+}
+.my-navbar a {
+  font-size: 14px;
+}
+#about {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#fruits img {
+  width: 70%;
+  align-items: center;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+#fruits h3 {
+  padding-left: 20px;
+}
+#fruits h2 {
+  margin-bottom: 30px;
+}
+#project {
+  background-color: black;
+  color: #dedede;
+}
+#about p {
+  font-size: 16px;
+}
+.carousel-inner {
+  height: 20em;
+}
